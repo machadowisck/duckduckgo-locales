@@ -1574,7 +1574,7 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgid "Chat Test"
-msgstr ""
+msgstr "Chat Test default"
 
 # smartling.placeholder_format=C
 msgctxt "test chat"

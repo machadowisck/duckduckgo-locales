@@ -1305,7 +1305,7 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgid "Chat Test"
-msgstr "Chat test en"
+msgstr "Chat test us"
 
 #. Message shown when we have no data from upstream to display
 msgctxt "Single Place Hotel Offers Module"
