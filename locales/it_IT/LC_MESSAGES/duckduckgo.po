@@ -1620,6 +1620,10 @@ msgid "Chat"
 msgstr "Chat"
 
 # smartling.placeholder_format=C
+msgid "Chat Test"
+msgstr "Chat test it"
+
+# smartling.placeholder_format=C
 msgctxt "test chat"
 msgid "Chat"
 msgstr "RATTO NEW STRING"
