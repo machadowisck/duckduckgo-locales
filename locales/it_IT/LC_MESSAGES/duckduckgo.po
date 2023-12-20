@@ -1620,6 +1620,11 @@ msgid "Chat"
 msgstr "Chat"
 
 # smartling.placeholder_format=C
+msgctxt "test chat"
+msgid "Chat"
+msgstr "RATTO NEW STRING"
+
+# smartling.placeholder_format=C
 #. Message shown when we have no data from upstream to display
 msgctxt "Single Place Hotel Offers Module"
 msgid "Check %s for rates and availability."
