@@ -7341,7 +7341,7 @@ msgstr "Se bilder"
 #. Links to a page that provides a list of DuckDuckGo product updates
 msgctxt "SERP footer content"
 msgid "See What's New"
-msgstr "See What's New"
+msgstr "Se hva som er nytt"
 
 # smartling.placeholder_format=C
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
