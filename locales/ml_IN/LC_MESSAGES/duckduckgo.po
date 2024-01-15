@@ -7410,7 +7410,7 @@ msgstr "ഫോട്ടോകൾ കാണുക"
 #. Links to a page that provides a list of DuckDuckGo product updates
 msgctxt "SERP footer content"
 msgid "See What's New"
-msgstr "See What's New"
+msgstr "പുതിയതായി എന്തുണ്ടെന്ന് കാണൂ"
 
 # smartling.placeholder_format=C
 #. Click "What is this?" - http://i.imgur.com/KhmRHth.png
